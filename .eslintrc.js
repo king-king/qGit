@@ -11,7 +11,7 @@ module.exports = {
         "require": true
     },
     "parserOptions": {
-        "ecmaVersion": 6,
+        "ecmaVersion": 8,
         "sourceType": "script"
     },
     "rules": {
